@@ -11,4 +11,23 @@ h1{
 }
 p{
     font-size:18px;
+}main{
+    max-width:800px;
+    margin:20px auto;
+    background:white;
+    padding:20px;
+    border-radius:10px;
+}
+
+ul{
+    list-style:none;
+    padding:0;
+}
+
+li{
+    background:#E3F2FD;
+    margin:10px;
+    padding:12px;
+    border-radius:8px;
+    font-size:18px;
 }
